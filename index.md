@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tmdakm/ars-mc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to ARSMC
+ARSMC是一个我的世界红石数电的一个研讨组，其中包括辰占鳌头等大佬在内。
 
 ### Markdown
 
