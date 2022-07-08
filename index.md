@@ -53,10 +53,7 @@ p⊕q=(¬p∧q)∨(p∧¬q)
 具体教程见下：
 <iframe src="//player.bilibili.com/player.html?aid=88964465&bvid=BV1j7411g7GE&cid=151959670&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-### Jekyll Themes
+### 未完待续
+此页面未编写完毕，如有疑问或想法，请发邮件至feedback@ars-mc.ml。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tmdakm/ars-mc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
