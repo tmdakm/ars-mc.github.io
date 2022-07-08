@@ -25,16 +25,16 @@ ARSMC是一个我的世界红石数电的一个研讨组，其中包括辰占鳌
 
 与门：
 （全部为1才为1）
-记号：p^q 或 p AND q
+记号：p∧q 或 p AND q
 真值表：
-	p  q  p^q
+	p  q  p∧q
 	0  0	0
 	0  1	0
 	1  0	0
 	1  1 	1
 
 通过或门和非门可以实现与门（根据De Morgan's Law）：
-p^q = ¬(¬p∨¬q)
+p∧q = ¬(¬p∨¬q)
 
 异或门：
 （不同为1，相同为0）
@@ -46,11 +46,12 @@ p^q = ¬(¬p∨¬q)
 	1  0	1
 	1  1	0
 根据定义，可以得出：
-p⊕q=(¬p^q)∨(p^¬q)
+p⊕q=(¬p∧q)∨(p∧¬q)
 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+具体教程见下：
+<iframe src="//player.bilibili.com/player.html?aid=88964465&bvid=BV1j7411g7GE&cid=151959670&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### Jekyll Themes
 
